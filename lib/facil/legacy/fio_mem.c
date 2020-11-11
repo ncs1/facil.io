@@ -15,6 +15,8 @@ Feel free to copy, use and enjoy according to the license provided.
 #include <pthread.h>
 #include <sys/mman.h>
 #include <unistd.h>
+#include <stdint.h>
+#include <errno.h>
 
 /* *****************************************************************************
 If FIO_FORCE_MALLOC is set, use glibc / library malloc
