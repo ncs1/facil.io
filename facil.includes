@@ -1,0 +1,10 @@
+examples/boiler_plate/src
+lib/facil
+lib/facil/cli
+lib/facil/fiobj
+lib/facil/http
+lib/facil/http/parsers
+lib/facil/legacy
+lib/facil/redis
+lib/facil/tls
+tests
